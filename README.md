@@ -1,4 +1,5 @@
 # PS2Interface_VGAInterface_Verilog
+By Dan Waisel and Dan Ram.
 A Verilog project including PS2 Interface (Keyboard Interface) and VGA Interface.
 
 Written in Vivado.
